@@ -22,12 +22,12 @@ Parte 1: Configuración Inicial del Repositorio
 
 2. Estructura Inicial del Proyecto (10 puntos)
 - Crear las siguientes carpetas y archivos:
-ISL135_2024/
-├── css/
-│ └── estilos.css
-├── js/
-│ └── script.js
-└── index.html
+-ISL135_2024/
+-├── css/
+-│ └── estilos.css
+-├── js/
+-│ └── script.js
+-└── index.html
 - Miembro B se encargará de crear la carpeta css y el archivo estilos.css.
 - Miembro C creará la carpeta js y el archivo script.js.
 - Miembro A creará el archivo index.html con una estructura básica de HTML.
