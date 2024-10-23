@@ -4,3 +4,4 @@ Evaluar las habilidades colaborativas y el manejo de Git en un equipo de desarro
 ## Miembros
 + [Kevin Rivera](https://github.com/keriz-rh) *miembro A*
 + [Ricardo Morales](https://github.com/MM23084) *miembro B*
++ [Marvin Mendéz](https://github.com/marvinmendezdevs) *miembro C*
